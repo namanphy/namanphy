@@ -1,5 +1,4 @@
 <h2 align="center">Hello there 👋, I'm Naman</h2>
-<hr>
 
 <h3 align="center"> Developer - Python, ML </h3>
 
@@ -42,7 +41,6 @@
 
   </p>
   <p align="center">
-    &nbsp;
     <img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;
     <img alt="PyTorch" width="160px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png" />&nbsp;&nbsp;&nbsp;
     <img alt="MySQL" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;&nbsp;&nbsp;
@@ -50,7 +48,6 @@
 
 &nbsp;
 <hr>
-&nbsp;&nbsp;
 
 <br />
 
@@ -58,8 +55,7 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=namanphy&show_icons=true&count_private=true&hide_border=false&hide_title=true&theme=graywhite" />
 </p>
-&nbsp;&nbsp;
-
+&nbsp;
 
 <h3 align="center">Want to connect?</h3>
 <p align="center">
