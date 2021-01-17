@@ -23,7 +23,7 @@
 
 - 💬 Ask me about Python, AWS deployment, ML.
 
-- 📫 How to reach me: [see here](https://github.com/namanphy#Want-to-connect?)
+- 📫 How to reach me: [see here](https://github.com/namanphy#github-stats)
 
 - ⚡ Fun fact: Like Football, Cricket and esports.
 
