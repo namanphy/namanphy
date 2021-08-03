@@ -59,12 +59,18 @@
 
 <h3 align="center">Want to connect?</h3>
 <p align="center">
+  <a href="mailto:namanphy@gmail.com">
+    <img align="center" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/namanphy/">
     <img align="center" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+  </a>&nbsp;
+  <a href="https://www.twitter.com/namanphy7/">
+    <img align="center" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
   </a>&nbsp;
   <a href="https://www.instagram.com/namn_b/">
     <img align="center" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
+
 
