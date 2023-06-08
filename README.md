@@ -1,6 +1,6 @@
 <h2 align="center">Hello there 👋, I'm Naman</h2>
 
-<h3 align="center"> Developer - Python, ML </h3>
+<h3 align="center"> Data Engineer - BigData, Python, MLOps </h3>
 
 &nbsp;&nbsp;
 
@@ -15,13 +15,13 @@
 
 <p align="center">
   <samp>
-    I am a software Developer and i like to work on Python and projects related to Deep Learning. I am also the guy to build deployment pipelines on AWS. <br />
+    I am a software Developer by heart and Data Engineer by love. I like to work on Python, projects related to MLOps and Data Engineering. I am also the guy to build deployment pipelines on AWS. <br />
   </samp>&nbsp;
 <!-- - 🔭 I’m currently working on  -->
 
 - 🌱 I’m currently learning Deep Learning and Computer vision.
 
-- 💬 Ask me about Python, AWS deployment, ML.
+- 💬 Ask me about Spark, Python, AWS, MLOps.
 
 - 📫 How to reach me: [see here](https://github.com/namanphy#github-stats)
 
@@ -41,9 +41,12 @@
 
   </p>
   <p align="center">
-    <img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;
-    <img alt="PyTorch" width="160px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png" />&nbsp;&nbsp;&nbsp;
-    <img alt="MySQL" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;&nbsp;&nbsp;
+  
+    <img alt="Spark" width="60px" src="https://spark.apache.org/images/spark-logo.png" />&nbsp;
+    <img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;&nbsp;&nbsp;
+    <img alt="PyTorch" width="60px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" />&nbsp;&nbsp;&nbsp;
+    <img alt="PyTorch" width="80px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png" />&nbsp;&nbsp;&nbsp;
+    <img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;&nbsp;&nbsp;
   </p>
 
 &nbsp;
