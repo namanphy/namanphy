@@ -41,12 +41,11 @@
 
   </p>
   <p align="center">
-  
-    <img alt="Spark" width="60px" src="https://spark.apache.org/images/spark-logo.png" />&nbsp;
-    <img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;&nbsp;&nbsp;
-    <img alt="PyTorch" width="60px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" />&nbsp;&nbsp;&nbsp;
-    <img alt="PyTorch" width="80px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png" />&nbsp;&nbsp;&nbsp;
-    <img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;&nbsp;&nbsp;
+    <img alt="Spark" width="160px" src="https://spark.apache.org/images/spark-logo.png"> &nbsp;&nbsp;&nbsp;
+    <img alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> &nbsp;&nbsp;&nbsp;
+    <img alt="K8s" width="80px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png">&nbsp;&nbsp;&nbsp;
+    <img alt="PyTorch" width="180px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png">&nbsp;&nbsp;&nbsp;
+    <img alt="MySQL" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;&nbsp;&nbsp;
   </p>
 
 &nbsp;
